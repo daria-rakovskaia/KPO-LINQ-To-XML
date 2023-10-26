@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQToXML", "LINQToXML\LINQToXML.csproj", "{CC950AFC-D735-4899-9D57-462B7DBBE52B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{32A87034-AFF2-4181-B400-C1F0A6875DB8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC950AFC-D735-4899-9D57-462B7DBBE52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC950AFC-D735-4899-9D57-462B7DBBE52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC950AFC-D735-4899-9D57-462B7DBBE52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC950AFC-D735-4899-9D57-462B7DBBE52B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96598B5B-F669-4495-A603-222D592E8FC0}
+	EndGlobalSection
+EndGlobal
